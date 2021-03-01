@@ -28,6 +28,7 @@ them seemed appropriate.
 
 Also, a .svg file can be turned nearly transparent and included in the background of html documents, allowing one to include it discretely in an email.
 
+![QR code for the Cargo.lock sha256 sum](./light-Cargo.lock-sum.svg)
 # Future work
 
 # Dependencies
