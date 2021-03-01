@@ -7,6 +7,14 @@ fileproof [filenames]
 ```
 where `[filenames]` is any whitespace separated list of file names.
 
+### Example
+Running the following in the base directory of the project:
+```bash
+fileproof Cargo.lock
+```
+gives
+![QR code for the Cargo.lock sha256 sum](./Cargo.lock-sum.svg)
+
 ## Why?
 
 Mostly, I just wanted to practice rust.
